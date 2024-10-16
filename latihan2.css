@@ -1,1 +1,55 @@
+/* Global Style */
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
 
+.body-background {
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+/* Title Styles */
+.main-title {
+    text-align: center;
+    color: white;
+    background-color: grey;
+    padding: 10px;
+}
+
+.section-title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.mp4-title {
+    color: orange;
+}
+
+.ferrari-title {
+    color: red;
+}
+
+/* Image Styles */
+.image-left {
+    float: left;
+    margin-right: 10px;
+    width: 200px;
+    height: 100px;
+}
+
+.image-right {
+    float: right;
+    margin-left: 10px;
+    width: 200px;
+    height: 100px;
+}
+
+/* Text Styles */
+.car-description {
+    text-align: justify;
+    margin: 10px 20px;
+}
